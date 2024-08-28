@@ -1,0 +1,10 @@
+1. fix the start button✅
+2. fix the count down issue.✅
+3. show finished pop up at the middle of the page.✅
+4. 3 column history for pc and 1 column for mobile.✅
+4. show count in whole number✅
+Bonus:
+1. fix mistake counter✅
+2. 10 git commits✅
+3. blog html file with question answer✅
+4. word per min extra functionality✅
